@@ -20,7 +20,5 @@ A simple Node.js and Express-based REST API for managing a bookstore, using **fi
 - File System (`fs`) for reading/writing `.json` files
 - JSON for data storage (local)
 
----
 
-## 📁 Project Structure
 
