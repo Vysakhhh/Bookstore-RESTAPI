@@ -1,0 +1,18 @@
+[
+  {
+    "id": "56e9b59e-67b4-4ba3-bcaa-a1d90b400039",
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Science-fiction",
+    "publishedYear": "2008",
+    "userId": "1751536127785"
+  },
+  {
+    "id": "227ed28a-5af8-4c87-bcf8-340614b32fc1",
+    "title": "The Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy-fiction",
+    "publishedYear": "1997",
+    "userId": "1751536127785"
+  }
+]
